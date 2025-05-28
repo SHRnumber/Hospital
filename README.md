@@ -1,9 +1,11 @@
 # Hospital Management System 
 
-![Dashboard Preview](Screenshot%202025-05-28%20142634.png)
-![Appointments Preview](Screenshot%202025-05-28%20142726.png)
+![Screenshot 2025-05-28 142634](https://github.com/user-attachments/assets/d7d5fd5e-c967-49dc-baac-cda94df725d0)
+![Screenshot 2025-05-28 142726](https://github.com/user-attachments/assets/df26e6e5-092d-40f4-a006-c56b9bd9b6ce)
+
 
 ## Overview
+
 ZEECARE is a modern hospital management system frontend designed to streamline patient interactions, appointment scheduling, and healthcare administration. Built with React.js and Tailwind CSS, it offers a responsive and intuitive interface for both patients and medical staff.
 
 ## Key Features
